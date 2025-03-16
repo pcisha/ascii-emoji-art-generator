@@ -1,4 +1,4 @@
-# Ascii Emoji [Image] Generator in Python
+# Ascii Emoji [Image] Art Generator in Python
 
 
 Date: March 16, 2025
