@@ -50,7 +50,7 @@ def get_random_skin_tone(emoji_type):
 
 ### Reference
 - Emoji pictures from https://emojipedia.org/
-- Original Tweet by Kanye West: https://x.com/EastKanyeYE/status/1900484763963752528
+- Original Tweet by Kanye West Fan Account: https://x.com/EastKanyeYE/status/1900484763963752528
 <img width="302" alt="og" src="https://github.com/user-attachments/assets/f8d124e3-fbf5-4654-843c-141439a2d0c2" />
 
 #
